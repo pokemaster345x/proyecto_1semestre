@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1684638172 source:d:\proyecto integrador\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1684638250 source:d:\proyecto integrador\pomodorofast.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1684636618 source:d:\proyecto integrador\podomorohorario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1684637726 source:d:\proyecto integrador\horario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1684641772 source:d:\proyecto integrador - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1684641850 source:d:\proyecto integrador - copia\pomodorofast.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1684943178 source:d:\proyecto integrador - copia\horario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1685071390 source:d:\proyecto integrador - copia - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1684638250 source:d:\proyecto integrador - copia - copia\pomodorofast.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1685069842 source:d:\proyecto integrador - copia - copia\horario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1685071534 source:d:\proyecto integrador - copia - copia\promediosemestral.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
+1685069842 source:d:\proyecto integrador grupo #1 final\horario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+
+1685076130 source:d:\proyecto integrador grupo #1 final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1684638250 source:d:\proyecto integrador grupo #1 final\pomodorofast.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1685071534 source:d:\proyecto integrador grupo #1 final\promediosemestral.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+
